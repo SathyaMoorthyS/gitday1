@@ -1,4 +1,10 @@
 first line added
+<<<<<<< HEAD
 second line added
 third lijne added
 fouth line added
+||||||| parent of b89dcaa (second line added)
+=======
+second line added
+
+>>>>>>> b89dcaa (second line added)
